@@ -1,0 +1,23 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "express.js server files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabanitabag/express.js-basics.git"
+  },
+  "author": "nbag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabanitabag/express.js-basics/issues"
+  },
+  "homepage": "https://github.com/nabanitabag/express.js-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
